@@ -108,7 +108,7 @@ Author:
 ::-webkit-scrollbar-thumb {
     background-color: #759D9F;
     outline: .0625rem solid #527476
-
+}
 ::selection {
     background: #555;
     color: #fff;
