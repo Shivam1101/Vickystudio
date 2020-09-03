@@ -1,10 +1,10 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
 
-Template Name: Emily - Creative Photography Portfolio
+Template Name: Vicky Studio - Creative Photography Portfolio
 Template Demo URL: 
 Version: 1.0
-Author: madsparrow.us
+Author: 
 
 --------------------------------------------------------------------
 
@@ -100,6 +100,14 @@ Author: madsparrow.us
     font-style: normal;
 }
 
+
+::-webkit-scrollbar {
+    background-color: #f5f5f5;
+    width: .5rem;
+}
+::-webkit-scrollbar-thumb {
+    background-color: #759D9F;
+    outline: .0625rem solid #527476
 
 ::selection {
     background: #555;
