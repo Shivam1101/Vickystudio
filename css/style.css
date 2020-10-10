@@ -2506,7 +2506,7 @@ footer {
 }
 
 footer a {
-    color: rgb(252, 0, 0);
+    color: #000;
     font-size: 18px;
     /*padding-left: 10px;*/
 }
