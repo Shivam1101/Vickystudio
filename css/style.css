@@ -2452,8 +2452,8 @@ button:hover {
 .more a {
     font-size: 22px;
     /*margin-top: 30px;*/
-    position: absolute;
-    bottom: -80px;
+    /* position: absolute; */
+    /* bottom: -80px; */
     /* align-items: center;
     align-content: center;*/
     text-transform: uppercase;
@@ -2461,7 +2461,9 @@ button:hover {
     color: transparent;
     font-family: Altero;
     -webkit-text-stroke: 1px #fff;
-    margin-left: -52px;
+    /* margin-left: -52px; */
+    position: relative;
+    top: 30px;
 }
 
 .more a:hover {
