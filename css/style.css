@@ -2444,7 +2444,7 @@ button:hover {
     color: #fff !important;
 }
 
-/* jdu */
+
 .grid-item img,
 .grid-item iframe {
     /*filter: grayscale(100%) contrast(120%);*/
@@ -3469,7 +3469,7 @@ textarea.input1 {
 
     #fixed-img h3 {
        font-size: 14px !important;
-padding: 60px 0 !important;
+       padding: 60px 0 !important;
     }
 
     #fixed-img {
