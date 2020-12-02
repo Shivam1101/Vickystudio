@@ -3477,4 +3477,9 @@ textarea.input1 {
         z-index: -5;
 
     }
+    .position-sticky
+    {
+        position: relative !important;
+        top:0px;
+    }
 }
