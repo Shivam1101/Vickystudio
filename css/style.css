@@ -3011,7 +3011,7 @@ textarea.input1 {
 .mfp-with-zoom .mfp-container,
 .mfp-with-zoom.mfp-bg {
     opacity: 0;
-    -webkit-backface-visibility: hidden;
+    /* -webkit-backface-visibility: hidden; */
     -webkit-transition: all 0.23s ease-out;
     transition: all 0.23s ease-out;
 }
