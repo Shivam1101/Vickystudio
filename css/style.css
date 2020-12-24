@@ -2453,7 +2453,7 @@ button:hover {
 }
 
 .more a {
-    font-size: 22px;
+    font-size: 24px;
     /*margin-top: 30px;*/
     /* position: absolute; */
     /* bottom: -80px; */
@@ -2465,8 +2465,9 @@ button:hover {
     font-family: Altero;
     -webkit-text-stroke: 1px #fff;
     /* margin-left: -52px; */
-    position: relative;
-    top: 30px;
+    /* position: relative; */
+    margin-top: 25px;
+    display: inline-block;
 }
 
 .more a:hover {
