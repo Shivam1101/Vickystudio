@@ -2592,7 +2592,7 @@ body:after {
 #gallery-header h1,
 #services-header h1,
 #prewed-header h1,
-#wed-header h1 {
+#wed-header h1 , #engage-header h1{
     font-family: Altero;
     font-size: 50px;
     /*margin-bottom: 15px;*/
@@ -2606,7 +2606,7 @@ body:after {
 .gallery-info h2,
 .services-info h2,
 #shootblocks h2,
-#prewed_info h2 {
+#prewed_info h2 , #engage_info h2{
     font-family: Altero;
     font-size: 45px;
     /*margin-bottom: 15px;*/
@@ -2618,7 +2618,7 @@ body:after {
 #about-info,
 .gallery-info,
 .services-info,
-#prewed_info {
+#prewed_info, #engage_info {
     margin-top: 10rem;
 }
 
@@ -2853,7 +2853,7 @@ textarea.input1 {
 
 #about-info p,
 .services-info p,
-#prewed_info p {
+#prewed_info p , #engage_info p {
     color: #fff;
     font-size: 17px;
     font-weight: bold;
@@ -3116,7 +3116,9 @@ textarea.input1 {
     vertical-align: middle;
 
 }
-
+#engage_info p {
+    text-indent: 84px;
+}
 #prewed_info p {
     text-indent: 84px;
 }
@@ -3483,4 +3485,27 @@ textarea.input1 {
         position: relative !important;
         top:0px;
     }
+}
+
+
+
+
+
+
+
+
+
+
+#engage-header {
+    background: url(../assets/images/wed-header.png) no-repeat;
+    background-position-x: 0%;
+    background-position-y: 0%;
+    background-size: auto;
+background-size: cover;
+height: 67vh;
+padding-top: 38px;
+background-position: inherit;
+/* margin-top: 41px; */
+position: relative;
+top: 90px;
 }
