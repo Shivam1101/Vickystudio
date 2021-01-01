@@ -3492,7 +3492,18 @@ textarea.input1 {
     }
     #main-gallery {
         position: relative;
-z-index: 99;
+        z-index: 99;
+    }
+
+    #contact-header h1, #about-header h1, #gallery-header h1, #services-header h1, #prewed-header h1, #wed-header h1, #engage-header h1
+    {
+        font-size:38px;
+
+    }
+    .prewed-headerbg
+    {
+        margin-left: 30px;
+        /* text-align: center; */
     }
 }
 
