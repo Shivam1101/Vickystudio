@@ -3490,6 +3490,10 @@ textarea.input1 {
     {
         font-size: 28px;
     }
+    #main-gallery {
+        position: relative;
+z-index: 99;
+    }
 }
 
 
