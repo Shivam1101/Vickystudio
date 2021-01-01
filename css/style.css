@@ -3485,6 +3485,11 @@ textarea.input1 {
         position: relative !important;
         top:0px;
     }
+
+    #contact_info h2, #about-info h2, #team h2, .gallery-info h2, .services-info h2, #shootblocks h2, #prewed_info h2, #engage_info h2
+    {
+        font-size: 28px;
+    }
 }
 
 
