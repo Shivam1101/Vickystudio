@@ -2629,7 +2629,7 @@ body:after {
 .gallery-info p,
 .services-info h2 span,
 #shootblocks h2 span,
-#prewed_info h2 span {
+#prewed_info h2 span ,#engage_info h2 span {
     /*font-family: Quicksand;*/
 
     /*-webkit-text-stroke: 0.6px #fff;*/
